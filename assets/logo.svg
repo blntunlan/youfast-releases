@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Youfast">
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="#0E0F12"/>
+  <path fill="#F4623F" d="M153 143h54l54 72 54-72h54l-87 116v62c0 31-25 53-59 53-26 0-44-14-44-34 0-21 20-36 47-36 5 0 10 1 14 2v-47z"/>
+  <path fill="#ECEDEF" d="M113 218h35a13 13 0 0 1 0 26h-35a13 13 0 0 1 0-26zm-14 43h49a13 13 0 0 1 0 26H99a13 13 0 0 1 0-26z"/>
+</svg>
