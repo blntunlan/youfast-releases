@@ -112,12 +112,6 @@ On Windows: `Get-FileHash youfast.exe` and compare it with the line in `SHA256SU
 
 Youfast talks to YouTube, to GitHub for updates and to lrclib.net for lyrics YouTube does not have. Your sign-in stays on your computer, encrypted with your Windows account or readable only by your user on macOS and Linux. There is no telemetry.
 
-## Good to know
-
-Youfast is unofficial. It is not affiliated with, endorsed by or sponsored by YouTube or Google. YouTube and YouTube Music are trademarks of Google LLC. YouTube's Terms of Service do not provide for third-party clients, so use it at your own risk.
-
-Youfast is based on [Tubefast](https://github.com/yigitbozyaka/tubefast) by Yiğit Bozyaka, and is released under the [MIT license](LICENSE).
-
 ## Questions and bugs
 
 Open an [issue](https://github.com/blntunlan/youfast-releases/issues). If Youfast crashed, attach `crash.log` from `%APPDATA%\youfast\data` on Windows, `~/Library/Application Support/youfast` on macOS or `~/.local/share/youfast` on Linux.
